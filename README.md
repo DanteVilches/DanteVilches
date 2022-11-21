@@ -11,3 +11,7 @@
 </div>
 <hr>
 (https://github-readme-stats.vercel.app/api?username=DanteVilches&show_icons=true&theme=merko)
+
+<a href="https://github.com/DanteVilches/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DanteVilches&show_icons=true&theme=merko" />
+</a>

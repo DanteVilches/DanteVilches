@@ -10,7 +10,7 @@
   <a href="mailto:dante.vilchesc@gmail.com"><img src="https://img.shields.io/badge/Gmail-d43000?style=for-the-badge&logo=Gmail&logoColor=white%22%3E"</img></a>
 </div>
 <hr>
-(https://github-readme-stats.vercel.app/api?username=DanteVilches&show_icons=true&theme=merko)
+
 
 <a href="https://github.com/DanteVilches/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DanteVilches&show_icons=true&theme=merko"></img>

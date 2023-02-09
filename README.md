@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dante Vilches
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Java FullStack
+- 🌱 Java Full Stack developer graduated from Mindhub with 700+ hours on a simulated real job enviroment.
 - 📫 dante.vilchesc@gmail.com
 
 

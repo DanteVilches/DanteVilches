@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dante Vilches
 - 👀 I’m interested in web development
-- 🌱 Java Full Stack developer graduated from Mindhub with 700+ hours on a simulated real job enviroment.
+- 🌱 Java Full Stack developer graduated from Mindhub with 700+ hours on a simulated real work enviroment.
 - 📫 dante.vilchesc@gmail.com
 
 
